@@ -18,7 +18,7 @@ Python 3.9: The programming language used to build the API
 
 Usage:
 
-Clone the repository: git clone https://github.com/your-username/flask-reminder-api.git
+Clone the repository: git clone  https://github.com/anandT9999/flask-reminder-api
 Install dependencies: pip install -r requirements.txt
 Run the Flask application: python app.py
 Access the API at http://localhost:5000
